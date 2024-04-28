@@ -7,4 +7,4 @@
 * ref="id" Define the target of sending focus
 * v-model: Two ways binding of forms and data
 * indicates the entered value does not conform to the format expected by the application/ Input is Invalid
-* role="alert": Make announcement for screen reader of success message..
+* role="alert": Make announcement for screen reader of success message.
